@@ -1,12 +1,12 @@
-# Bambu-Bus
-Tools &amp; Documentation relating to the Bambu Bus
+# Babu-Bus
+Tools &amp; Documentation relating to the Babu Bus
 
 ## Introduction
 The bambu-bus is a proprietary protocol, based on UART through a RS485 bus<br>
 The UART is clocked at 1228800bps with 1 even parity bit and 1 stop bit
 
 ## Headers and Devices Adressing
-The bambu bus is using 2 packet formats,<br>
+The babu bus is using 2 packet formats,<br>
 The long header packet, which has data indication the master and slave between multiple avaible devices<br>
 And The short header packet, which communicate between 1 preset master and slave
 
